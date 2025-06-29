@@ -39,7 +39,3 @@ log.custom("debug", "This is a debug log", { fg: "cyan", bg: "black" });
 
 ```bash
 npm install colorful-logger
-
-
-
-
