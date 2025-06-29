@@ -6,9 +6,6 @@ A stylish, single-line, colorful console logger for Node.js (ES Modules). Includ
 
 ## 🚀 Installation
 
-```bash
-npm install colorful-logger
-
 ## ✨ Features
 
 - 🎯 Single-line logs (timestamp, level, message)
@@ -39,6 +36,9 @@ log.custom("debug", "This is a debug log", { fg: "cyan", bg: "black" });
 | `log.success()` | ✅ Success message             | White on Green  |
 | `log.custom()`  | 🎛 Custom tag, message, color | Any color       |
 
+
+```bash
+npm install colorful-logger
 
 
 
