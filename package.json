@@ -1,0 +1,20 @@
+{
+  "name": "colorful-logger",
+  "version": "1.0.0",
+  "description": "colorful console logger for node.js with timestamps",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "keywords": [
+    "npm",
+    "logger"
+  ],
+  "author": "sachin rawat",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
